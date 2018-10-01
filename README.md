@@ -15,9 +15,12 @@ require('snake-utils')
 Ext
 
 > Object
-- isObject
-- isClass
-- assignDeep
+- isObject()
+- isClass()
+- assignDeep()
 
 > Boolean
-- isBoolean
+- isBoolean()
+
+> String
+- prototype.toUnderscore()
