@@ -1,6 +1,6 @@
 {
   "name": "snake-utils",
-  "version": "0.0.9",
+  "version": "0.0.11",
   "description": "",
   "main": "index.js",
   "directories": {
